@@ -43,7 +43,7 @@ figcaption {
 
 /* ID Selector (apply to one unique element per page) */
 
-#logo {
+#logo { /* select elements with id="logo" */
   
 }
 
